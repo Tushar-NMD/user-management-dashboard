@@ -62,6 +62,12 @@ npm run preview
 ```
 
 ---
+## AI Tools Used
+
+- **ChatGPT:** Used for technical guidance, debugging assistance, and resolving implementation issues during development.
+- **Antigravity:** Used for assistance with implementing the custom theming engine, including theme management, custom font upload, and applying theme changes across the application.
+
+All AI-generated suggestions were reviewed and adapted as needed during implementation.
 
 ## 🎨 Architecture & Engineering Highlights
 
